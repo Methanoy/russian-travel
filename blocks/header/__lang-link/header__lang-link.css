@@ -14,10 +14,6 @@
     opacity: .5;
 }
 
-.header__lang-link:focus {
-    text-decoration: underline;
-}
-
 @media screen and (max-width: 767px) {
     .header__lang-link {
         line-height: 20px;

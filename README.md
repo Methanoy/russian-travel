@@ -22,4 +22,6 @@
 - Работа с макетом в Figma.
 ## Планы
 - Улучшить адаптивность за счёт добавления дополнительных медиазапросов.
+## Ссылка на GitHub Pages
+![GitHub Pages](https://methanoy.github.io/russian-travel/)
 
