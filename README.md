@@ -23,5 +23,5 @@
 ## Планы
 - Улучшить адаптивность за счёт добавления дополнительных медиазапросов.
 ## Ссылка на GitHub Pages
-![GitHub Pages](https://methanoy.github.io/russian-travel/)
+[Проект на GitHub Pages](https://methanoy.github.io/russian-travel/)
 
