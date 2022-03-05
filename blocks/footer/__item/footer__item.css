@@ -5,7 +5,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .footer__link {
+    .footer__item {
         line-height: 1;
         font-size: 24px;
     }
