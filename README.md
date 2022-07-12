@@ -1,5 +1,7 @@
 <h1 align="center">Путешествия по России</h1>
 
+## Ссылка на GitHub Pages
+[Проект на GitHub Pages](https://methanoy.github.io/russian-travel/)
 ## Описание
 
 <h2 align="center"><img src="./images/cover__background.jpg" width="100%"></h2>
@@ -12,7 +14,7 @@
 
 ## Технологии
 ### HTML
-- Нативный html 5.
+- Нативный HTML5.
 ### CSS
 - Flexbox.
 - Grid.
@@ -22,6 +24,4 @@
 - Работа с макетом в Figma.
 ## Планы
 - Улучшить адаптивность за счёт добавления дополнительных медиазапросов.
-## Ссылка на GitHub Pages
-[Проект на GitHub Pages](https://methanoy.github.io/russian-travel/)
 
